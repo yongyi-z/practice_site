@@ -1,0 +1,46 @@
+body{
+  background-color: hsl(339, 100%, 87%);
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: lavenderblush;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 50px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+footer{
+  background-color: lavenderblush;
+  padding: 60px;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  margin-top: 50px;
+  text-align: left;
+}
+
+p {
+  background-color: lavenderblush;
+  padding: 15px;
+  margin-right: 160px;
+  margin-left: 160px;
+  border-radius: 25px;
+}
+
+h2{
+  background-color: lavenderblush;
+  padding: 5px;
+  margin: 32px;
+  margin-right: 350px;
+  margin-left: 350px;
+  border-radius: 25px;
+}
+
+textarea{
+  font-family:Comic Sans MS, Comic Sans, cursive;
+}
